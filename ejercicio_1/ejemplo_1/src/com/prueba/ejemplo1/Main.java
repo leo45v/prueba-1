@@ -22,6 +22,7 @@ public class Main {
         System.out.println(Encry);
 
         System.out.println((desencriptar(Encry,Patron,Key)));
+        System.out.println("modificacion sha");
 
     }
 
